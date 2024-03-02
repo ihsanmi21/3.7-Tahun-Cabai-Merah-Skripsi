@@ -16,7 +16,8 @@ Hasil penelitian ini menunjukkan bahwa model yang dikembangkan memiliki tingkat 
 ## Output Grafis
 Berikut adalah visualisasi hasil prediksi yang dihasilkan oleh model:
 
-![Output Model](output/output_3_Faktor_2023_Akhir.png)
+![Prediksi Harga Cabai Merah](output/output_3_Faktor_2023_Akhir.png)
+
 
 Jangan ragu untuk menjelajahi lebih lanjut dan melihat file-file dan hasil penelitian yang telah disertakan dalam repositori ini.
 
