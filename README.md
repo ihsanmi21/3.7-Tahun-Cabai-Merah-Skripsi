@@ -5,3 +5,4 @@ Variable yang digunakan pada penelitian ini adalah:
 3. Harga Barang subtitusi (Bawang putih)
 
 Penelitian ini menghasilkan MAPE sebesar 8.2%
+![plot](C:\Users\ihsan\Desktop\LULUS\output\output_3_Faktor_2023_Akhir.png)
