@@ -6,4 +6,4 @@ Variable yang digunakan pada penelitian ini adalah:
 
 Penelitian ini menghasilkan MAPE sebesar 8.2%
 
-![Output Image](output/output_3_Faktor_2023_Akhir.png)
+[Output Image](output/output_3_Faktor_2023_Akhir.png)
